@@ -60,7 +60,6 @@ app.use((req, res, next) => {
 })
 
 
-
 let persons = [
     {
         id: 1,
@@ -69,13 +68,8 @@ let persons = [
     },
     {
         id: 2,
-        name: "Ahmed Badry",
+        name: "Youssef Usama",
         number: "01001101111"
-    },
-    {
-        id: 3,
-        name: "Bassem Mohamed",
-        number: "01501011566"
     },
 ]
 
